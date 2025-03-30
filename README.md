@@ -1,7 +1,9 @@
 # Estimación de Población Extranjera en Chile
 
 Este proyecto crea un gráfico de barras animado (bar chart race) que muestra la evolución de la estimación de la población extranjera en Chile, utilizando datos proporcionados por el Instituto Nacional de Estadísticas (INE). La animación visualiza cómo cambian las cifras de la población extranjera a lo largo del tiempo.
-![poblacion](https://github.com/user-attachments/assets/97445e0c-d614-40bf-8595-d316aebebced)
+
+# 
+ ![poblacion](https://github.com/user-attachments/assets/97445e0c-d614-40bf-8595-d316aebebced)
 
 
 ## Descripción
